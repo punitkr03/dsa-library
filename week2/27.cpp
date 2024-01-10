@@ -8,6 +8,6 @@ public:
                 idx++;
             }
         }
-        return index;
+        return idx;
     }
 };
